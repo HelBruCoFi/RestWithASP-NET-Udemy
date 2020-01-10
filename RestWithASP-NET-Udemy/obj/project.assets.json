@@ -11885,9 +11885,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NB25959\\Desktop\\Udemy\\REST API's RESTFul\\GitHubRepos\\RestWithASP-NET-Udemy\\RestWithASP-NET-Udemy\\RestWithASP-NET-Udemy.csproj",
-      "projectName": "RestWithASP-NET-Udemy",
-      "projectPath": "D:\\NB25959\\Desktop\\Udemy\\REST API's RESTFul\\GitHubRepos\\RestWithASP-NET-Udemy\\RestWithASP-NET-Udemy\\RestWithASP-NET-Udemy.csproj",
+      "projectUniqueName": "D:\\NB25959\\Desktop\\Udemy\\REST API's RESTFul\\GitHubRepos\\RestWithASP-NET-Udemy\\RestWithASP-NET-Udemy\\RestWithASP_NET_Udemy.csproj",
+      "projectName": "RestWithASP_NET_Udemy",
+      "projectPath": "D:\\NB25959\\Desktop\\Udemy\\REST API's RESTFul\\GitHubRepos\\RestWithASP-NET-Udemy\\RestWithASP-NET-Udemy\\RestWithASP_NET_Udemy.csproj",
       "packagesPath": "C:\\Users\\NB25959\\.nuget\\packages\\",
       "outputPath": "D:\\NB25959\\Desktop\\Udemy\\REST API's RESTFul\\GitHubRepos\\RestWithASP-NET-Udemy\\RestWithASP-NET-Udemy\\obj\\",
       "projectStyle": "PackageReference",
