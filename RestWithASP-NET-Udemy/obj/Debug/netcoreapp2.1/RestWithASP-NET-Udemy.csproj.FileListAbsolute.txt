@@ -14,3 +14,19 @@ D:\NB25959\Desktop\Udemy\REST API's RESTFul\VS solution\RestWithASP-NET-Udemy\Re
 D:\NB25959\Desktop\Udemy\REST API's RESTFul\VS solution\RestWithASP-NET-Udemy\RestWithASP-NET-Udemy\obj\Debug\netcoreapp2.1\RestWithASP-NET-Udemy.RazorTargetAssemblyInfo.cache
 D:\NB25959\Desktop\Udemy\REST API's RESTFul\VS solution\RestWithASP-NET-Udemy\RestWithASP-NET-Udemy\obj\Debug\netcoreapp2.1\RestWithASP-NET-Udemy.dll
 D:\NB25959\Desktop\Udemy\REST API's RESTFul\VS solution\RestWithASP-NET-Udemy\RestWithASP-NET-Udemy\obj\Debug\netcoreapp2.1\RestWithASP-NET-Udemy.pdb
+D:\NB25959\Desktop\Udemy\REST API's RESTFul\GitHubRepos\RestWithASP-NET-Udemy\RestWithASP-NET-Udemy\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\NB25959\Desktop\Udemy\REST API's RESTFul\GitHubRepos\RestWithASP-NET-Udemy\RestWithASP-NET-Udemy\bin\Debug\netcoreapp2.1\appsettings.json
+D:\NB25959\Desktop\Udemy\REST API's RESTFul\GitHubRepos\RestWithASP-NET-Udemy\RestWithASP-NET-Udemy\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\NB25959\Desktop\Udemy\REST API's RESTFul\GitHubRepos\RestWithASP-NET-Udemy\RestWithASP-NET-Udemy\bin\Debug\netcoreapp2.1\RestWithASP-NET-Udemy.deps.json
+D:\NB25959\Desktop\Udemy\REST API's RESTFul\GitHubRepos\RestWithASP-NET-Udemy\RestWithASP-NET-Udemy\bin\Debug\netcoreapp2.1\RestWithASP-NET-Udemy.runtimeconfig.json
+D:\NB25959\Desktop\Udemy\REST API's RESTFul\GitHubRepos\RestWithASP-NET-Udemy\RestWithASP-NET-Udemy\bin\Debug\netcoreapp2.1\RestWithASP-NET-Udemy.runtimeconfig.dev.json
+D:\NB25959\Desktop\Udemy\REST API's RESTFul\GitHubRepos\RestWithASP-NET-Udemy\RestWithASP-NET-Udemy\bin\Debug\netcoreapp2.1\RestWithASP-NET-Udemy.dll
+D:\NB25959\Desktop\Udemy\REST API's RESTFul\GitHubRepos\RestWithASP-NET-Udemy\RestWithASP-NET-Udemy\bin\Debug\netcoreapp2.1\RestWithASP-NET-Udemy.pdb
+D:\NB25959\Desktop\Udemy\REST API's RESTFul\GitHubRepos\RestWithASP-NET-Udemy\RestWithASP-NET-Udemy\obj\Debug\netcoreapp2.1\RestWithASP-NET-Udemy.csprojAssemblyReference.cache
+D:\NB25959\Desktop\Udemy\REST API's RESTFul\GitHubRepos\RestWithASP-NET-Udemy\RestWithASP-NET-Udemy\obj\Debug\netcoreapp2.1\RestWithASP-NET-Udemy.RazorAssemblyInfo.cache
+D:\NB25959\Desktop\Udemy\REST API's RESTFul\GitHubRepos\RestWithASP-NET-Udemy\RestWithASP-NET-Udemy\obj\Debug\netcoreapp2.1\RestWithASP-NET-Udemy.RazorAssemblyInfo.cs
+D:\NB25959\Desktop\Udemy\REST API's RESTFul\GitHubRepos\RestWithASP-NET-Udemy\RestWithASP-NET-Udemy\obj\Debug\netcoreapp2.1\RestWithASP-NET-Udemy.AssemblyInfoInputs.cache
+D:\NB25959\Desktop\Udemy\REST API's RESTFul\GitHubRepos\RestWithASP-NET-Udemy\RestWithASP-NET-Udemy\obj\Debug\netcoreapp2.1\RestWithASP-NET-Udemy.AssemblyInfo.cs
+D:\NB25959\Desktop\Udemy\REST API's RESTFul\GitHubRepos\RestWithASP-NET-Udemy\RestWithASP-NET-Udemy\obj\Debug\netcoreapp2.1\RestWithASP-NET-Udemy.RazorTargetAssemblyInfo.cache
+D:\NB25959\Desktop\Udemy\REST API's RESTFul\GitHubRepos\RestWithASP-NET-Udemy\RestWithASP-NET-Udemy\obj\Debug\netcoreapp2.1\RestWithASP-NET-Udemy.dll
+D:\NB25959\Desktop\Udemy\REST API's RESTFul\GitHubRepos\RestWithASP-NET-Udemy\RestWithASP-NET-Udemy\obj\Debug\netcoreapp2.1\RestWithASP-NET-Udemy.pdb
